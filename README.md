@@ -15,3 +15,14 @@ Chart's Requirement:
 5. Total pizzas sold by pizza category: A funnel chart that presents the total number of pizzas sold for each pizza category. This chart will allow us to compare the sales performance of different pizza categories.
 
 
+#Snapshots!!
+
+![Pizza](https://github.com/Rishabh-25-code/Pizzeria/assets/72189098/3edebc12-bb4a-432e-b6ac-b99c77637733)
+
+
+
+![Pizza2](https://github.com/Rishabh-25-code/Pizzeria/assets/72189098/6a8b62db-00a0-40ef-80fe-6e96a0ca0797)
+
+
+
+![Pizza3](https://github.com/Rishabh-25-code/Pizzeria/assets/72189098/dda70b3e-89a5-4475-a370-1db74fb52c9f)
